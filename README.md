@@ -29,7 +29,7 @@ To run the application, execute the following command in the terminal, and the a
     Use the sidebar on the left to search for a player’s name and find their ID.
 
 - Section 3. Player Shot Spot and Stat Analysis:  
-    Enter the player's ID in the first input box to retrieve their shot attempt locations, successful shot locations, and stats.  
+      Enter the player's ID in the first input box to retrieve their shot attempt locations, successful shot locations, and stats.  
     If there is no data available for the player, graphs will not be displayed.  
 
 - Section 4. Comparison of Win Rates and Shooting Percentages for 3 Players in the Last 5, 3, and 1 Minutes of a Game:  
