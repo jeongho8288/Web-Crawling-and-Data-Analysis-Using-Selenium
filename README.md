@@ -66,24 +66,26 @@ To run the application, execute the following command in the terminal, and the a
 <hr style="border-top: 3px solid #bbb;">
 
 ## Usage / Significance
-1. Using this information, you can identify players currently in good form and prepare to defend against them strategically. By using the search bar in Section 3, you can analyze a player’s preferred shooting spots and details to create systematic game strategies.  
+
+Using information from Section 1, you can identify players currently in good form and prepare to defend against them strategically.  
+By using the search bar in Section 3, analyze a player’s preferred shooting spots and details to create systematic game strategies.  
   
-2. This information helps identify the roster excluding injured players, making it useful for planning tailored strategies against the opposing team.  
+Using information from Section 2, you can identify the roster excluding injured players, which is useful for planning tailored strategies against the opposing team.  
   
-3. By searching specific players, you can analyze their preferred shooting spots, high-percentage shooting areas, and offensive patterns to defend them effectively with a customized approach.  
+Using information from Section 3, you can search specific players to analyze their preferred shooting spots, high-percentage shooting areas, and offensive patterns, enabling a customized defensive approach.  
   
-4. Using this information, you can search specific players on the opposing team during clutch situations and identify who has the highest success rate. Focus on defending the player with the best success rate.  
---> Additionally, you can search key players from each team in the final moments of a game to predict the outcome.  
+Using information from Section 4, you can search specific players on the opposing team during clutch situations to identify who has the highest success rate and focus on defending that player.  
+--> Additionally, you can search key players from each team in the final moments of a game to make predictions about the outcome.  
   
-5. This information provides up-to-date data on players’ abilities and performance.  
+Using information from Section 5, you can access continuously updated data to monitor players’ abilities and performance.  
   
-6. Analyze the impact of players by position using this data.  
---> When dealing with limited budgets during player acquisitions or trades, this information helps identify the most cost-effective positions in terms of offensive and defensive influence, guiding recruitment decisions.  
+Using information from Section 6, you can assess the impact of players by position.  
+--> This helps in player acquisitions or trades with limited budgets by identifying the most cost-effective positions in terms of offensive and defensive influence.  
   
-7 & 8. These data points allow you to track the rankings and salaries of players performing well this season.  
---> You can identify players whose salaries are undervalued relative to their abilities, making them ideal candidates for trade or acquisition at a good price.  
+Using information from Sections 7 and 8, you can evaluate the rankings and salaries of players performing well this season.  
+--> This allows you to identify players undervalued in terms of salary relative to their abilities, making them ideal for trade or acquisition at a good price.  
   
-9. This information helps evaluate players' efficiency and salary.  
---> When working within a restricted budget, you can search for players and analyze their details to recruit those with the best cost-to-performance ratio.  
+Using information from Section 9, you can analyze players' efficiency and salary.  
+--> When working within a restricted budget, this helps you identify players with the best cost-to-performance ratio for recruitment.  
 
 
