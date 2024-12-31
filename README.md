@@ -26,10 +26,10 @@ To run the application, execute the following command in the terminal, and the a
 ## How to Use
 
 - Sidebar:    
-  >  Use the sidebar on the left to search for a player’s name and find their ID.
+    Use the sidebar on the left to search for a player’s name and find their ID.
 
 - Section 3. Player Shot Spot and Stat Analysis:  
-      Enter the player's ID in the first input box to retrieve their shot attempt locations, successful shot locations, and stats.  
+    Enter the player's ID in the first input box to retrieve their shot attempt locations, successful shot locations, and stats.  
     If there is no data available for the player, graphs will not be displayed.  
 
 - Section 4. Comparison of Win Rates and Shooting Percentages for 3 Players in the Last 5, 3, and 1 Minutes of a Game:  
@@ -44,8 +44,7 @@ To run the application, execute the following command in the terminal, and the a
 
 ## Execution Image
 
-<img src="https://github.com/user-attachments/assets/71cbba60-2255-4de8-874e-739794bba2dc" alt="Description2" style="width: 50%; height: 200px;">  
-https://github.com/user-attachments/assets/71cbba60-2255-4de8-874e-739794bba2dc
+![스크린샷 2024-12-31 163338](https://github.com/user-attachments/assets/e173d05c-c31b-48a9-87b4-d84630dcabc2)
 
 
   
