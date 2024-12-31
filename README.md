@@ -8,13 +8,11 @@ To use the application, ensure the following libraries are installed:
 - seaborn
 - selenium
 - bs4
-<br>
 
 ## Usage
 
 To run the application, execute the following command in the terminal, and the application window will launch:  
 - streamlit run main.py
-<br>
 
 ## Data Collection Sources
 
