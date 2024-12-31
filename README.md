@@ -25,22 +25,20 @@ To run the application, execute the following command in the terminal, and the a
 
 ## How to Use
 
-#### Sidebar: Use the sidebar on the left to search for a player’s name and find their ID.  
-  
-#### Section 3. Player Shot Spot and Stat Analysis:
+- Sidebar:    
+Use the sidebar on the left to search for a player’s name and find their ID.
 
+- Section 3. Player Shot Spot and Stat Analysis:  
 Enter the player's ID in the first input box to retrieve their shot attempt locations, successful shot locations, and stats.  
 If there is no data available for the player, graphs will not be displayed.  
 
-#### Section 4. Comparison of Win Rates and Shooting Percentages for 3 Players in the Last 5, 3, and 1 Minutes of a Game:
-
+- Section 4. Comparison of Win Rates and Shooting Percentages for 3 Players in the Last 5, 3, and 1 Minutes of a Game:  
 Enter the IDs of three players whose clutch-time performance you want to analyze.  
 This will display their win rates and shooting percentages during the last 5, 3, and 1 minutes of a game.  
 If there is insufficient clutch-time data, graphs may not appear.  
 It is recommended to input players with significant clutch-time data.  
 
-#### Section 9. Player Efficiency Scores and Salary Analysis:
-
+- Section 9. Player Efficiency Scores and Salary Analysis:  
 Enter the player's ID in the input field to view information about their offensive/defensive efficiency scores and salary.  
 <hr style="border-top: 3px solid #bbb;">
 
