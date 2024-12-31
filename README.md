@@ -44,7 +44,25 @@ To run the application, execute the following command in the terminal, and the a
 
 ## Execution Image
 
-![스크린샷 2024-12-31 163338](https://github.com/user-attachments/assets/e173d05c-c31b-48a9-87b4-d84630dcabc2)
+![image](https://github.com/user-attachments/assets/d86aa8d9-4658-485c-bf6a-086ea0fa7faf)
+![image](https://github.com/user-attachments/assets/cf0592d1-781d-4bfd-a70b-4de8aeb28c8b)
+![image](https://github.com/user-attachments/assets/b9bb9d4a-81ab-43ef-8d52-cd73198454ae)
+![image](https://github.com/user-attachments/assets/c2a97d6b-2313-4ec1-80bd-0194d8ad3334)
+![image](https://github.com/user-attachments/assets/711d01b4-9d0a-4d5e-baa2-6b0be7ce4b6a)
+![image](https://github.com/user-attachments/assets/079244d2-376e-4c22-b2f7-cf6b0d57b63b)
+
+## Section 3 Results
+![image](https://github.com/user-attachments/assets/710e8c85-4937-405d-bbf6-69eb74f75a02)
+
+## Section 4 Rssults
+![image](https://github.com/user-attachments/assets/d0d0076b-3064-4305-a146-81845ac1b867)
+
+## Section 9 Results
+![image](https://github.com/user-attachments/assets/0ec804c0-a66b-4c2a-9792-b846dc07544c)
+![image](https://github.com/user-attachments/assets/6a84c735-a77b-431c-bfd2-cd18a7e97d7c)
+
+
+
 
 
   
