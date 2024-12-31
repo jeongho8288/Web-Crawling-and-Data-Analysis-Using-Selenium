@@ -46,42 +46,44 @@ To run the application, execute the following command in the terminal, and the a
 
 ![image](https://github.com/user-attachments/assets/d86aa8d9-4658-485c-bf6a-086ea0fa7faf)
 ![image](https://github.com/user-attachments/assets/cf0592d1-781d-4bfd-a70b-4de8aeb28c8b)
-![image](https://github.com/user-attachments/assets/b9bb9d4a-81ab-43ef-8d52-cd73198454ae)
+![image](https://github.com/user-attachments/assets/e88d5a8f-8288-44b1-af3d-ea9fde438e78)
 ![image](https://github.com/user-attachments/assets/c2a97d6b-2313-4ec1-80bd-0194d8ad3334)
 ![image](https://github.com/user-attachments/assets/711d01b4-9d0a-4d5e-baa2-6b0be7ce4b6a)
 ![image](https://github.com/user-attachments/assets/079244d2-376e-4c22-b2f7-cf6b0d57b63b)
+<hr style="border-top: 3px solid #bbb;">
 
 ## Section 3 Results
 ![image](https://github.com/user-attachments/assets/710e8c85-4937-405d-bbf6-69eb74f75a02)
+<hr style="border-top: 3px solid #bbb;">
 
 ## Section 4 Rssults
 ![image](https://github.com/user-attachments/assets/d0d0076b-3064-4305-a146-81845ac1b867)
+<hr style="border-top: 3px solid #bbb;">
 
 ## Section 9 Results
 ![image](https://github.com/user-attachments/assets/0ec804c0-a66b-4c2a-9792-b846dc07544c)
 ![image](https://github.com/user-attachments/assets/6a84c735-a77b-431c-bfd2-cd18a7e97d7c)
+<hr style="border-top: 3px solid #bbb;">
 
-
-
-
-
+## Usage / Significance
+1. Using this information, you can identify players currently in good form and prepare to defend against them strategically. By using the search bar in Section 3, you can analyze a player’s preferred shooting spots and details to create systematic game strategies.  
   
-### System Architecture
-<img src="https://github.com/user-attachments/assets/f71ccd54-e052-4c49-92e8-f7874f00a6e1" alt="Description2" style="width: 50%; height: 200px;">  
-
-### Hardware Images
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/9d6a52ba-993f-44bc-ac42-0f91d5d575c0" alt="Description1" style="width: 23%; height: 300px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/040bea4c-3475-4842-9532-60c6ee922d72" alt="Description2" style="width: 23%; height: 300px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/8365030e-4028-4324-a1d5-a86413f4f0c2" alt="Description2" style="width: 40%; height: 300px;">
-</div>
-<hr style="border-top: 3px solid #bbb;">
-
-## Load inertia
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/edf8146a-45c5-4cba-8799-0b88b8bb135a" alt="Description1" style="width: 40%; height: 250px; margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/e4f0d2ac-1bcc-4d2f-aac7-40b35eef1a09" alt="Description" alt="Description2" style="width: 20%; height: 100px;">
-</div>
-<hr style="border-top: 3px solid #bbb;">
+2. This information helps identify the roster excluding injured players, making it useful for planning tailored strategies against the opposing team.  
+  
+3. By searching specific players, you can analyze their preferred shooting spots, high-percentage shooting areas, and offensive patterns to defend them effectively with a customized approach.  
+  
+4. Using this information, you can search specific players on the opposing team during clutch situations and identify who has the highest success rate. Focus on defending the player with the best success rate.  
+--> Additionally, you can search key players from each team in the final moments of a game to predict the outcome.  
+  
+5. This information provides up-to-date data on players’ abilities and performance.  
+  
+6. Analyze the impact of players by position using this data.  
+--> When dealing with limited budgets during player acquisitions or trades, this information helps identify the most cost-effective positions in terms of offensive and defensive influence, guiding recruitment decisions.  
+  
+7 & 8. These data points allow you to track the rankings and salaries of players performing well this season.  
+--> You can identify players whose salaries are undervalued relative to their abilities, making them ideal candidates for trade or acquisition at a good price.  
+  
+9. This information helps evaluate players' efficiency and salary.  
+--> When working within a restricted budget, you can search for players and analyze their details to recruit those with the best cost-to-performance ratio.  
 
 
